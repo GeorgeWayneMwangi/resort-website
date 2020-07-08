@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+h2 {
+	color: crimson;
+	text-align: center;
+	font-style: italic;
+}
+body { 
+	background-color:darkred;
+	opacity: 1;
+	line-height:80%;
+	font-size:16;
+	font-style:italic;
+}
+.intro {
+  font-family: monospace;
+  font-size: 40
+  font: Normal;
+ }
+  
